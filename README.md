@@ -1,6 +1,6 @@
-# iterative_dashboard_suicide_rate_1987_to_2017
+# iterative_dashboard_suicide_rate_1985_to_2016
 
-This dataset describes the suicide rate from 1987 to 2017 accross the globe;
+This dataset describes the suicide rate from 1985 to 2016 accross the globe;
 
     Country: Categorical variable representing the country.
     Year: Numerical variable representing the year.
